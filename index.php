@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Linnk</title>
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300" rel="stylesheet">
         <style media="screen">
@@ -25,14 +26,8 @@
                 color: #ccc;
                 border-bottom: 1px dashed #fff;
             }
-            main {
-                min-width: 700px;
-                max-width: 1000px;
-                margin: 0 auto 2em auto;
-                padding: 0 5em;
-            }
             #bio {
-                margin: 10em 0 4em 0;
+                margin: 0 0 4em 0;
             }
             #bio h1 {
                 text-align: left;
@@ -77,6 +72,21 @@
             }
             footer > a {
                 margin-right: 2em;
+            }
+            @media only screen and (min-width: 701px) {
+                main {
+                    min-width: 700px;
+                    max-width: 1000px;
+                    margin: 10em auto 2em auto;
+                    padding: 0 5em;
+                }
+            }
+            @media only screen and (max-width: 700px) {
+                main {
+                    width: auto;
+                    margin: 2em 0 2em 0;
+                    padding: 0 1em;
+                }
             }
         </style>
     </head>
