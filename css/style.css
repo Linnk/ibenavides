@@ -1,7 +1,25 @@
-body, html {
-    margin: 0;
-    padding: 0;
+/* CSS Micro Reset */
+
+body { margin: 0 }
+
+h1, h2, h3, h4, h5, h6 { font-weight:normal }
+
+table
+{
+ border-collapse: collapse;
+ border-spacing: 0
 }
+
+th, td
+{
+ text-align: left;
+ vertical-align: top
+}
+
+img, iframe { border: 0 }
+
+/* General CSS */
+
 body {
     background: #1D2E59;
     background: #2E4D61;
@@ -10,7 +28,7 @@ body {
     font-family: "Roboto Mono";
     font-weight: 300;
     font-size: 10pt;
-    line-height: 1.7em;
+    line-height: 17pt;
 }
 a {
     color: #aaa;
@@ -21,10 +39,25 @@ a:hover {
     color: #ccc;
     border-bottom: 1px dashed #fff;
 }
-#bio h1 {
+h1 {
     text-align: left;
-    margin: 0 0 2em 0;
-    font-weight: 300;
+    margin: 0 0 17pt 0;
+    font-weight: bold;
+    font-size: 20pt;
+    line-height: 1em;
+    letter-spacing: 1pt;
+}
+h2 {
+    text-align: left;
+    margin: 0 0 17pt 0;
+    font-weight: bold;
+    font-size: 15pt;
+    line-height: 1em;
+    letter-spacing: 1pt;
+}
+p {
+    font-size: 10pt;
+    margin: 0 0 15pt 0;
 }
 #bio em {
     border-bottom: 1px dashed #fff;
@@ -58,7 +91,7 @@ footer > a {
 @media only screen and (min-width: 701px) {
     main {
         min-width: 600px;
-        max-width: 1000px;
+        max-width: 800px;
         margin: 7em auto 2em auto;
         padding: 0 5em;
     }
@@ -68,13 +101,10 @@ footer > a {
         min-height: 4em;
     }
     #experience > article > .company {
-        width: 33%;
-    }
-    #experience > article > .date {
-        width: 22%;
+        width: 35%;
     }
     #experience > article > .description {
-        width: 45%;
+        width: 65%;
     }
     #bio {
         margin: 0 0 4em 0;
@@ -92,6 +122,9 @@ footer > a {
         width: auto;
         margin: 2em 0 2em 0;
         padding: 0 1em;
+    }
+    #experience > article > .company > p:first-child {
+        margin: 0 0 5pt 0;
     }
     #bio {
         margin: 0 0 2em 0;
