@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Linnk</title>
+        <title>Ignacio Benavides</title>
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
         <link rel="stylesheet" href="/css/style.css">
     </head>
@@ -12,17 +12,15 @@
             <section id="bio">
                 <article>
                     <header>
-                		<h1>Hello</h1>
-                	</header>
+                        <h1>Hello</h1>
+                    </header>
                     <p>
-                        I'm <strong>Ignacio Benavides</strong>, a <em>Software Engineer</em> based in Guadalajara,
-                        México.
+                        I'm <strong>Ignacio Benavides</strong>, a <em>Software Engineer</em> living in Seattle.
                     </p>
                     <p>
-                        I love creating useful things that people would want to use. I do it mostly using languages
-                        like <em>Javascript</em>, <em>Swift</em> and <em title="ʕ •ᴥ•ʔ">PHP</em>. Currently, I work at
-                        <a target="_blank" href="https://incrementacrm.com/">Incrementa</a> where I do a bit of
-                        everything: leading, coding, product design, management and even customer support. :)
+                        I love creating useful products people want to use. I do it using mostly <em>Objective-C</em>,
+                        <em>C++</em>, <em>Javascript</em>, <em>Swift</em> and <em title="ʕ •ᴥ•ʔ">PHP</em>.
+                        Currently I work at <a target="_blank" href="https://facebook.com/">Facebook</a>.
                     </p>
                 </article>
             </section>
@@ -31,20 +29,29 @@
                 <h2>Experience</h2>
                 <article>
                     <div class="company">
-                        <p><a target="_blank" href="https://incrementacrm.com/">Incrementa</a></p>
-                        <p class="date">2013 - Currently</p>
+                        <p><a target="_blank" href="https://facebook.com/">Facebook</a></p>
+                        <p class="date">2019 - Currently</p>
                     </div>
                     <div class="description">
-                        <em title="I hate the term serial-entreperneur, but I think I'm one of those.">Cofounder</em>
+                        Software Engineer at the biggest social network in the world. We give people the power to build
+                        community and bring the world closer together.
+                    </div>
+                </article>
+                <article>
+                    <div class="company">
+                        <p><a target="_blank" href="https://incrementacrm.com/">Incrementa</a></p>
+                        <p class="date">2013 - 2019</p>
+                    </div>
+                    <div class="description">
+                        Former <em title="I hate the term serial-entreperneur, but I think I was one of those.">cofounder</em>
                         and <em>CTO</em> for a CRM cloud based application, designed specifically for Latina America’s
-                        small businesses. We currently have over 100 premium accounts and serve around 500 active
-                        users every day. 
+                        small businesses.
                     </div>
                 </article>
                 <article>
                     <div class="company">
                         <p><a target="_blank" href="https://spumer.com">Spumer</a></p>
-                        <p class="date">2014 - Currently</p>
+                        <p class="date">2014 - 2019</p>
                     </div>
                     <div class="description">
                         <em>Cofounder</em> and <em>CTO</em> for a web chat for businesses. Started as an experiment;
