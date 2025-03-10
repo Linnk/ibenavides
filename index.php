@@ -15,12 +15,11 @@
                         <h1>Hello</h1>
                     </header>
                     <p>
-                        I'm <strong>Ignacio Benavides</strong>, a <em>Software Engineer</em> living in Seattle.
+                        I'm <strong>Ignacio</strong>, <em>Software Engineer</em> and <em>entrepreneur</em> from Guadalajara living in Seattle.
                     </p>
                     <p>
-                        I love creating useful products people want to use. I do it using mostly <em>Objective-C</em>,
+                        I'm full-stack, although with more specific experience working with <em>Objective-C</em>,
                         <em>C++</em>, <em>Javascript</em>, <em>Swift</em> and <em title="ʕ •ᴥ•ʔ">PHP</em>.
-                        Currently I work at <a target="_blank" href="https://facebook.com/">Facebook</a>.
                     </p>
                 </article>
             </section>
@@ -29,12 +28,12 @@
                 <h2>Experience</h2>
                 <article>
                     <div class="company">
-                        <p><a target="_blank" href="https://facebook.com/">Facebook</a></p>
-                        <p class="date">2019 - Currently</p>
+                        <p><a target="_blank" href="https://meta.com/">Meta</a></p>
+                        <p class="date">2019 - 2025</p>
                     </div>
                     <div class="description">
-                        Software Engineer at the biggest social network in the world. We give people the power to build
-                        community and bring the world closer together.
+                        Software Engineer for the iOS <em>Facebook</em> App, specifically doing performance optimizations,
+                        reliability and efficiency work.
                     </div>
                 </article>
                 <article>
@@ -43,7 +42,7 @@
                         <p class="date">2013 - 2019</p>
                     </div>
                     <div class="description">
-                        Former <em title="I hate the term serial-entreperneur, but I think I was one of those.">cofounder</em>
+                        <em title="I hate the term serial-entreperneur, but I think I was one of those.">Cofounder</em>
                         and <em>CTO</em> for a CRM cloud based application, designed specifically for Latina America’s
                         small businesses.
                     </div>
@@ -55,7 +54,7 @@
                     </div>
                     <div class="description">
                         <em>Cofounder</em> and <em>CTO</em> for a web chat for businesses. Started as an experiment;
-                        we’re currently using it on production. 
+                        but used in production for 5 years
                     </div>
                 </article>
                 <article>
@@ -64,8 +63,8 @@
                         <p class="date">2013 - 2015</p>
                     </div>
                     <div class="description">
-                        <em>Founder</em> and <em>mobile developer</em> at my side non-profit project along with my
-                        <em>brother</em>. It was an iOS app that can mesure the quality of public transportation.
+                        <em>Cofounder</em> and <em>developer</em> for this non-profit project along with my
+                        <em>brother</em>. A mobile app that can mesure the quality of public transportation in Mexico.
                     </div>
                 </article>
                 <article>
@@ -74,18 +73,8 @@
                         <p class="date">2009 - 2012</p>
                     </div>
                     <div class="description">
-                        <em>Cofounder</em> at a digital agency. We made a lot of things for clients such as design,
-                        web apps and iOS apps, including the first (probably) iPad App in México.
-                    </div>
-                </article>
-                <article>
-                    <div class="company">
-                        <p>Freelance</p>
-                        <p class="date">2008 - 2009</p>
-                    </div>
-                    <div class="description">
-                        Part-time development, linux admin and security consultant; I did this as a way of earn
-                        something while going to college.
+                        <em>Cofounder</em> of our agency, doing branding design,
+                        web development and mobile apps, including the first (probably) iPad App launched and released in Mexico.
                     </div>
                 </article>
                 <article>
@@ -94,9 +83,8 @@
                         <p class="date">2006 - 2008</p>
                     </div>
                     <div class="description">
-                        <em title=":D">My first «programming job»</em> as web developer for a small Web Design Agency.
-                        I learned Linux around here. Also, this is when we fought the holy war against Internet
-                        Explorer.
+                        My <em title=":D">first</em> «programming job» as web developer for a small Web Design Agency.
+                        Learned Linux, web development and fought in the holy war against Internet Explorer 6.0.
                     </div>
                 </article>
             </section>
